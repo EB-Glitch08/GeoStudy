@@ -1,0 +1,7 @@
+com.SFOAN.geostudy.app-pngs-0 C:\Users\Boach\AndroidStudioProjects\GeoStudy2\app\build\generated\res\pngs\debug
+com.SFOAN.geostudy.app-updated_navigation_xml-1 C:\Users\Boach\AndroidStudioProjects\GeoStudy2\app\build\generated\updated_navigation_xml\debug
+com.SFOAN.geostudy.app-packageDebugResources-2 C:\Users\Boach\AndroidStudioProjects\GeoStudy2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.SFOAN.geostudy.app-packageDebugResources-3 C:\Users\Boach\AndroidStudioProjects\GeoStudy2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.SFOAN.geostudy.app-debug-4 C:\Users\Boach\AndroidStudioProjects\GeoStudy2\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.SFOAN.geostudy.app-debug-5 C:\Users\Boach\AndroidStudioProjects\GeoStudy2\app\src\debug\res
+com.SFOAN.geostudy.app-main-6 C:\Users\Boach\AndroidStudioProjects\GeoStudy2\app\src\main\res
